@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Pedro Yare Chulunquia</h1>
+<h1 align="center">Hola 👋, Soy Kevin Pedro Yare Chulunquia</h1>
 <h3 align="center">Soy estudiante de Ing. de Sistemas en la UNSA</h3>
 <p align="left">
 </p>
